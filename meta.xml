@@ -1,5 +1,5 @@
 <meta>
-	<info author="Mohab" type="script" name="Discord Integration Webhook" version="1.0.0" />
+	<info author="Mohab" type="script" name="Discord Integration Webhook" version="1.0.0" description="Send in-game MTA:SA messages directly to Discord via webhooks" />
 	<script src="g_discord.lua" type="shared" />
 	<script src="c_discord.lua" type="client" cache="false" />
 	<script src="s_discord.lua" type="server" />
