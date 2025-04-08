@@ -1,5 +1,7 @@
 # MTA:SA Discord Integration Resource
 
+**[للعربية اضغط هنا ↓](#نظام-ربط-mtasa-مع-ديسكورد)**
+
 ## Overview
 
 This resource allows players on your MTA:SA server to send messages directly to a Discord channel using a webhook integration. Players can use a simple in-game command to communicate with your Discord community.
